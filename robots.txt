@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: 
+
+Allow: /images/manou.jpg
+Sitemap: http://www.mon-domaine.fr/sitemap.xml
+
