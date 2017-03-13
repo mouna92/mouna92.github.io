@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://mounasassi.me/</loc>
-    <lastmod>2017-03-01</lastmod>
+    <lastmod>2017-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
+  </url>
+   <url>
+    <loc>http://mounasassi.me/mounasassi.pdf</loc>
+    <lastmod>2017-03-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>2</priority>
   </url>
 </urlset>
