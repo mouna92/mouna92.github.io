@@ -1,8 +1,15 @@
 User-agent: *
 
 Disallow: 
-
+Disallow: /js/*
+Disallow: /css/*
+Disallow: /fonts/*
+Allow: index.html
+Allow: indexAN.html
+Allow: 404.html
+Allow: /images/*
 Allow: /images/mounasassi.pdf
 Allow: /images/manou.jpg
+Allow: /images/mouna.jpg
 Sitemap: http://mounasassi.me/sitemap.xml
 
