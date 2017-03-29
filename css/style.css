@@ -2128,7 +2128,21 @@ ul.language {
     margin-left: 140px;
     margin-top: -30px;
 }
-
+.btn {
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    margin-left: 20px;
+}
+}
 @media (max-width:375px) {
 section.service-w3l h3.text-center:before, section.service-w3l h3.text-center:after, section.portfolio-agileinfo h3.text-center:before, section.portfolio-agileinfo h3.text-center:after, section.team-agileinfo h3.text-center:before, section.team-agileinfo h3.text-center:after, section.blog-w3layouts h3.text-center:before, section.blog-w3layouts h3.text-center:after, section.contact-w3layouts h3.text-center:before, section.contact-w3layouts h3.text-center:after {
     width: 100px;
