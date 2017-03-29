@@ -72,10 +72,10 @@ img.img1 {
 	-moz-transition:0.5s all;
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
-	width:60px;
+	width:40px;
 }
 img.img2{
-	width:50px;	
+	width:45px;	
 }
 /*-- /reset code --*/
 body {
@@ -216,7 +216,7 @@ ul.language{
     margin-top: 25px;
     display: flex;
     float: right;
-	margin-left: 800px;
+	margin-left: 1000px;
     margin-top: -100px;
 }
 .pogoSlider-slide-element p {
