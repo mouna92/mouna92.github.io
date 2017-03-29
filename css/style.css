@@ -1656,7 +1656,6 @@ ul.contact-w3ls {
     padding: 20px 0;
     width:100%;
 }
-ul.
 .col-lg-4.col-md-4.col-sm-6.col-xs-12.footer-agile1 {
     padding-bottom: 30px;
 }
@@ -1681,9 +1680,6 @@ ul.link-w3l.cl-effect-21 {
 .copright-w3 ul.link-w3l li {
 	margin:0 14px;
 }
-ul.language{
-	
-}
 }
 
 @media (max-width:900px) {
@@ -1698,12 +1694,6 @@ section.footer-w3 ul.tweet-agile li p.tweet-p1 {
     height:auto;
     margin: 35px auto;	
 }
-ul.language {
-    margin-top: 25px;
-    display: flex;
-    float: right;
-    margin-left: 10px;
-    margin-top: -100px;
 }
 
 @media (max-width: 768px) {
@@ -2131,6 +2121,12 @@ section.footer-w3 button.btn.btn-outline.btn-lg {
     width: 80%;
     margin: 195px auto 0;
 }
+ul.language {
+    margin-top: 25px;
+    display: flex;
+    float: right;
+    margin-left: 1000px;
+    margin-top: -100px;
 }
 
 @media (max-width:375px) {
