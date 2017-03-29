@@ -208,6 +208,11 @@ section.banner-w3ls button.btn.btn-default {
     text-transform:uppercase;
 	font-family: 'Poiret One', cursive;
 }
+.language{
+    margin-top: 25px;
+    display: flex;
+    float: right;
+}
 .pogoSlider-slide-element p {
     color: #fff!important;
     font-weight:normal;
