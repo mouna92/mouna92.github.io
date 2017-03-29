@@ -72,10 +72,10 @@ img.img1 {
 	-moz-transition:0.5s all;
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
-	width:40px;
+	width:45px;
 }
 img.img2{
-	width:45px;	
+	width:40px;	
 }
 /*-- /reset code --*/
 body {
