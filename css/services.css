@@ -83,6 +83,21 @@
 .ch-imgform-5 { 
 	background-image: url(../images/security.jpg);
 }
+.ch-imgexp-1 { 
+	background-image: url(../images/esprit.jpg);
+}
+.ch-imgexp-2 { 
+	background-image: url(../images/mahdia.jpg);
+}
+.ch-imgexp-3 { 
+	background-image: url(../images/amideast.jpg);
+}
+.ch-imgexp-4 { 
+	background-image: url(../images/lycee.jpg);
+}
+.ch-imgexp-5 { 
+	background-image: url(../images/appel.jpg);
+}
 
 .ch-info h5 {
 	color: #fff;
