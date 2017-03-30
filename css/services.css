@@ -54,18 +54,33 @@
 }
 
 .ch-img-1 { 
-	background-image: url(../images/esprit.jpg);
+	background-image: url(../images/nodejs.jpg);
 }
 .ch-img-2 { 
-	background-image: url(../images/mahdia.jpg);
+	background-image: url(../images/mangodb.jpg);
 }
 .ch-img-3 { 
-	background-image: url(../images/amideast.jpg);
+	background-image: url(../images/java.jpg);
 }
 .ch-img-4 { 
-	background-image: url(../images/lycee.jpg);
+	background-image: url(../images/csharp.jpg);
 }
 .ch-img-5 { 
+	background-image: url(../images/httml&css&js.jpg);
+}
+.ch-img-1form { 
+	background-image: url(../images/esprit.jpg);
+}
+.ch-imgform-2 { 
+	background-image: url(../images/mahdia.jpg);
+}
+.ch-imgform-3 { 
+	background-image: url(../images/amideast.jpg);
+}
+.ch-imgeform-4 { 
+	background-image: url(../images/lycee.jpg);
+}
+.ch-imgform-5 { 
 	background-image: url(../images/httml&css&js.jpg);
 }
 
