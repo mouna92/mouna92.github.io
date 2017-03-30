@@ -481,7 +481,7 @@ section.service-w3lform {
 }
 section.service-w3lexp {
 	padding:100px 0;
-	background:url(../images/exp.png) no-repeat;
+	background:url(../images/) no-repeat;
 	background-attachment:fixed;
 	background-position:center;
 	background-size:cover;
@@ -509,7 +509,7 @@ section.service-w3lform h3.text-center {
 section.service-w3lexp h3.text-center {
 	font-size:40px;
 	font-weight:bold;
-	color:#fff;
+	color:black;
 	padding-bottom:50px;
 	font-family: 'Poiret One', cursive;
 	position:relative;
