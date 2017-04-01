@@ -2196,6 +2196,11 @@ section.team-agileinfo .view h4 {
     padding: 10px;
     margin: 45px 0 0 0;
 }
+section.teacher-agileinfo .view h4 {
+    font-size: 20px;
+    padding: 10px;
+    margin: 45px 0 0 0;
+}
 ul.contact-w3ls {
     width: 47%;
 }
@@ -2212,6 +2217,11 @@ ul.contact-w3ls {
     font-size: 16px;
 }
 section.team-agileinfo .view h4 {
+    font-size: 20px;
+    padding: 10px;
+    margin: 35px 0 0 0;
+}
+section.teacher-agileinfo .view h4 {
     font-size: 20px;
     padding: 10px;
     margin: 35px 0 0 0;
@@ -2255,6 +2265,12 @@ section.team-agileinfo .view ul.team-social li a i.fa {
     line-height: 31px;
     font-size: 15px;
 }
+section.teacher-agileinfo .view ul.team-social li a i.fa {
+    width: 32px;
+    height: 32px;
+    line-height: 31px;
+    font-size: 15px;
+}
 .grid li {
     width: 50%;
 }
@@ -2263,10 +2279,22 @@ section.team-agileinfo .view h4 {
     padding: 7px;
     margin: 30px 0 0 0;
 }
+section.teacher-agileinfo .view h4 {
+    font-size: 18px;
+    padding: 7px;
+    margin: 30px 0 0 0;
+}
 section.team-agileinfo .view ul.team-social {
 	padding: 17px 0;
 }
+section.teacher-agileinfo .view ul.team-social {
+	padding: 17px 0;
+}
 section.team-agileinfo .view p.info {
+    font-size: 15px;
+    padding: 4px 10px;
+}
+section.teacher-agileinfo .view p.info {
     font-size: 15px;
     padding: 4px 10px;
 }
@@ -2319,7 +2347,7 @@ section.about-w3l p {
     font-size: 13px;
     line-height: 30px;
 }
-section.service-w3l, section.portfolio-agileinfo, section.team-agileinfo, section.blog-w3layouts, section.contact-w3layouts {
+section.service-w3l, section.portfolio-agileinfo, section.team-agileinfo, section.teacher-agileinfo, section.blog-w3layouts, section.contact-w3layouts {
     padding: 30px 0;
 }
 section.service-w3l h3.text-center:before, section.service-w3l h3.text-center:after, section.portfolio-agileinfo h3.text-center:before, section.portfolio-agileinfo h3.text-center:after, section.team-agileinfo h3.text-center:before, section.team-agileinfo h3.text-center:after, section.blog-w3layouts h3.text-center:before, section.blog-w3layouts h3.text-center:after, section.contact-w3layouts h3.text-center:before, section.contact-w3layouts h3.text-center:after {
