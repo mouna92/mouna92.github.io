@@ -717,6 +717,17 @@ section.team-agileinfo {
 	-ms-background-size:cover;
 	position:relative;
 }
+section.teacher-agileinfo {
+	padding:100px 0;
+	background:url(../images/teacher.jpg) no-repeat;
+	background-position:center;
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+	position:relative;
+}
 .jarallax {
     position: relative;
     background-size: cover;
@@ -740,6 +751,14 @@ section.team-agileinfo h3.text-center {
 	font-family: 'Poiret One', cursive;
 	position:relative;
 }
+section.teacher-agileinfo h3.text-center {
+	font-size:40px;
+	font-weight:bold;
+	color:#fff;
+	padding-bottom:50px;
+	font-family: 'Poiret One', cursive;
+	position:relative;
+}
 section.team-agileinfo h3.text-center:before {
 	content:'';
 	position:absolute;
@@ -749,6 +768,15 @@ section.team-agileinfo h3.text-center:before {
 	left:20%;
 	bottom:2%;
 } 
+section.teacher-agileinfo h3.text-center:before {
+	content:'';
+	position:absolute;
+	background-color:#fff;
+	width:300px;
+	height:2px;
+	left:20%;
+	bottom:2%;
+}
 section.team-agileinfo h3.text-center:after {
 	content:'';
 	position:absolute;
@@ -758,7 +786,24 @@ section.team-agileinfo h3.text-center:after {
 	right:20%;
 	bottom:2%;
 }
+section.teacher-agileinfo h3.text-center:after {
+	content:'';
+	position:absolute;
+	background-color:#fff;
+	width:300px;
+	height:2px;
+	right:20%;
+	bottom:2%;
+}
 section.team-agileinfo span.fa.fa-star-o {
+    font-size: 25px;
+    color:#fff;
+    display: block;
+    text-align: center;
+    margin-top: -16px;
+    margin-bottom: 50px;
+}
+section.teacher-agileinfo span.fa.fa-star-o {
     font-size: 25px;
     color:#fff;
     display: block;
@@ -776,7 +821,25 @@ section.team-agileinfo .view {
 	background: rgba(58, 161, 192, 0.38);
     cursor: default;
 }
+section.teacher-agileinfo .view {
+	width:100%;
+	height:auto;
+	margin:0 auto;
+	overflow: hidden;
+	position: relative;
+	text-align: center;
+	background: rgba(58, 161, 192, 0.38);
+    cursor: default;
+}
 section.team-agileinfo .view .mask1, section.team-agileinfo .view .mask2, section.team-agileinfo .view .mask3, section.team-agileinfo .view .mask4, section.team-agileinfo .view .content {
+	width:100%;
+	height:100%;
+	position: absolute;
+	overflow: hidden;
+	top: 0;
+	left: 0;
+}
+section.teacher-agileinfo .view .mask1, section.team-agileinfo .view .mask2, section.team-agileinfo .view .mask3, section.team-agileinfo .view .mask4, section.team-agileinfo .view .content {
 	width:100%;
 	height:100%;
 	position: absolute;
@@ -788,7 +851,23 @@ section.team-agileinfo .view img {
 	display: block;
 	position: relative;
 }
+section.teacher-agileinfo .view img {
+	display: block;
+	position: relative;
+}
 section.team-agileinfo .view h4 {
+	text-transform: uppercase;
+	color: #fff;
+	text-align: center;
+	position: relative;
+	font-size: 20px;
+	font-weight:normal;
+	padding: 10px;
+	background:#3ba2c1;
+	margin: 40px 0 0 0;
+	font-family: 'Poiret One', cursive;
+}
+section.teacher-agileinfo .view h4 {
 	text-transform: uppercase;
 	color: #fff;
 	text-align: center;
@@ -805,10 +884,28 @@ section.team-agileinfo .view ul.team-social {
     padding: 25px 0;
     text-align: center;
 }
+section.teacher-agileinfo .view ul.team-social {
+	position: relative;
+    padding: 25px 0;
+    text-align: center;
+}
 section.team-agileinfo .view ul.team-social li {
 	display:inline-block;
 }
+section.teacher-agileinfo .view ul.team-social li {
+	display:inline-block;
+}
 section.team-agileinfo .view ul.team-social li a i.fa {
+	width: 37px;
+    height: 37px;
+    line-height: 35px;
+    font-size: 16px;
+    color: #fff;
+    border: 1px solid #fff;
+    background-color: transparent;
+    text-align: center;
+}
+section.teacher-agileinfo .view ul.team-social li a i.fa {
 	width: 37px;
     height: 37px;
     line-height: 35px;
@@ -823,7 +920,17 @@ section.team-agileinfo .view ul.team-social li a i.fa.fa-facebook:hover {
 	color:#fff;
 	border-color:#3b5998;
 }
+section.teacher-agileinfo .view ul.team-social li a i.fa.fa-facebook:hover {
+	background-color:#3b5998;
+	color:#fff;
+	border-color:#3b5998;
+}
 section.team-agileinfo .view ul.team-social li a i.fa.fa-youtube:hover {
+	background-color:#cd201f;
+	color:#fff;
+	border-color:#cd201f;
+}
+section.teacher-agileinfo .view ul.team-social li a i.fa.fa-youtube:hover {
 	background-color:#cd201f;
 	color:#fff;
 	border-color:#cd201f;
@@ -833,7 +940,17 @@ section.team-agileinfo .view ul.team-social li a i.fa.fa-twitter:hover {
 	color:#fff;
 	border-color:#1da1f2;
 }
+section.teacher-agileinfo .view ul.team-social li a i.fa.fa-twitter:hover {
+	background-color:#1da1f2;
+	color:#fff;
+	border-color:#1da1f2;
+}
 section.team-agileinfo .view ul.team-social li a i.fa.fa-google-plus:hover {
+	background-color:#dd4b39;
+	color:#fff;
+	border-color:#dd4b39;
+}
+section.teacher-agileinfo .view ul.team-social li a i.fa.fa-google-plus:hover {
 	background-color:#dd4b39;
 	color:#fff;
 	border-color:#dd4b39;
@@ -843,7 +960,19 @@ section.team-agileinfo .view ul.team-social li a i.fa.fa-linkedin:hover {
 	color:#fff;
 	border-color:#0077b5;
 }
+section.teacher-agileinfo .view ul.team-social li a i.fa.fa-linkedin:hover {
+	background-color:#0077b5;
+	color:#fff;
+	border-color:#0077b5;
+}
 section.team-agileinfo .view ul.team-social li a i.fa:hover {
+    -webkit-animation: spin 2s linear infinite;
+	animation: spin 2s linear infinite;
+	-moz-animation: spin 2s linear infinite;
+	-o-animation: spin 2s linear infinite;
+	-ms-animation: spin 2s linear infinite;
+}
+section.teacher-agileinfo .view ul.team-social li a i.fa:hover {
     -webkit-animation: spin 2s linear infinite;
 	animation: spin 2s linear infinite;
 	-moz-animation: spin 2s linear infinite;
@@ -870,7 +999,23 @@ section.team-agileinfo .view p.info {
    color: #fff;
    text-transform:capitalize;
 }
+section.teacher-agileinfo .view p.info {
+   display: inline-block;
+   font-weight:normal;
+   font-size: 16px;
+   color: #fff;
+   text-align: center;
+   padding: 7px 10px;
+   background:#3ba2c1;
+   color: #fff;
+   text-transform:capitalize;
+}
 section.team-agileinfo .view p.info: hover {
+   -webkit-box-shadow: 0 0 5px #000;
+   -moz-box-shadow: 0 0 5px #000;
+   box-shadow: 0 0 5px #000;
+}
+section.teacher-agileinfo .view p.info: hover {
    -webkit-box-shadow: 0 0 5px #000;
    -moz-box-shadow: 0 0 5px #000;
    box-shadow: 0 0 5px #000;
@@ -1589,7 +1734,16 @@ section.team-agileinfo .view h4 {
 	padding: 7px;
 	margin: 25px 0 0 0;
 }
+section.teacher-agileinfo .view h4 {
+	font-size: 17px;
+	padding: 7px;
+	margin: 25px 0 0 0;
+}
 section.team-agileinfo .view p.info {
+	font-size:14px;
+	padding: 5px 10px;
+}
+section.teacher-agileinfo .view p.info {
 	font-size:14px;
 	padding: 5px 10px;
 }
@@ -1753,12 +1907,24 @@ section.service-w3l h3.text-center, section.portfolio-agileinfo h3.text-center, 
 section.team-agileinfo .team-grid .col-lg-3.col-md-3.col-sm-3.team-w3ls:nth-child(1),section.team-agileinfo .team-grid .col-lg-3.col-md-3.col-sm-3.team-w3ls:nth-child(2) {
 	padding-bottom:30px;
 }
+section.teacher-agileinfo .team-grid .col-lg-3.col-md-3.col-sm-3.team-w3ls:nth-child(1),section.team-agileinfo .team-grid .col-lg-3.col-md-3.col-sm-3.team-w3ls:nth-child(2) {
+	padding-bottom:30px;
+}
 section.team-agileinfo .view h4 {
     font-size: 20px;
     padding: 10px;
     margin: 85px 0 0 0;
 }
+section.teacher-agileinfo .view h4 {
+    font-size: 20px;
+    padding: 10px;
+    margin: 85px 0 0 0;
+}
 section.team-agileinfo .view p.info {
+    font-size: 16px;
+    padding: 5px 10px;
+}
+section.teacher-agileinfo .view p.info {
     font-size: 16px;
     padding: 5px 10px;
 }
