@@ -505,9 +505,38 @@ Mission:Emission d'appel-Prise des rendez-vous.<br>
 </section>
 <!-- /team section -->
 <!-- map -->
-<div class="map" data-aos="zoom-in">
-	<iframe class="googlemaps" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d380510.6741687111!2d-88.01234121699822!3d41.83390417061058!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1455598377120" style="border:0" allowfullscreen></iframe>
-</div>
+<div class="map">
+ <div id="map-container" class="z-depth-1 wow fadeInUp" style="height: 600px; margin-top: 10px;"></div>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAMPz6CN7kRsofMp2791dHnzHTxoV1UU7k"></script>
+	<script type="text/javascript">
+
+        function init_map() {
+
+            var var_location = new google.maps.LatLng(36.855892, 10.193626); 
+
+            var var_mapoptions = {
+                center: var_location,
+                zoom: 14
+            };
+
+            var var_marker = new google.maps.Marker({
+                position: var_location,
+                map: var_map,
+                title: "03 Rue 9 Avril cité el yasmina Borj El Baccouch Ariana"
+            });
+
+            var var_map = new google.maps.Map(document.getElementById("map-container"),
+                    var_mapoptions);
+
+            var_marker.setMap(var_map);
+
+        }
+
+        google.maps.event.addDomListener(window, 'load', init_map);
+
+		</script>
+		</div>
+
 <!-- /map -->
 <!-- contact section -->
 <section class="contact-w3layouts jarallax" id="contact">
