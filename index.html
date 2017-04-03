@@ -712,20 +712,37 @@ Ces deux leviers n’en sont pas moins complémentaires car utilisés ensemble l
 </section>
 <!-- /blog section -->
 <!-- map -->
-<div id="map" style="width:400px;height:400px;background:yellow"></div>
+<div class="map">
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAMPz6CN7kRsofMp2791dHnzHTxoV1UU7k"></script>
+	<script type="text/javascript">
 
-<script>
-function myMap() {
-var mapOptions = {
-    center: new google.maps.LatLng(36.8189700,10.2752800),
-    zoom: 10,
-    mapTypeId: google.maps.MapTypeId.HYBRID
-}
-var map = new google.maps.Map(document.getElementById("map"), mapOptions);
-}
-</script>
+        function init_map() {
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>
+            var var_location = new google.maps.LatLng(36.855892, 10.193626); 
+
+            var var_mapoptions = {
+                center: var_location,
+                zoom: 14
+            };
+
+            var var_marker = new google.maps.Marker({
+                position: var_location,
+                map: var_map,
+                title: "03 Rue 9 Avril cité el yasmina Borj El Baccouch Ariana"
+            });
+
+            var var_map = new google.maps.Map(document.getElementById("map-container"),
+                    var_mapoptions);
+
+            var_marker.setMap(var_map);
+
+        }
+
+        google.maps.event.addDomListener(window, 'load', init_map);
+
+		</script>
+		</div>
+
 <!-- /map -->
 <!-- contact section -->
 <section class="contact-w3layouts jarallax" id="contact">
