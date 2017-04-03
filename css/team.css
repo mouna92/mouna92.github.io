@@ -32,6 +32,15 @@
 	-o-background-size:cover;
 	-moz-background-size:cover;
 }
+.view-seventh .maskt1 {
+	background:url(../images/rym.png) no-repeat;
+	background-position:center;
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-moz-background-size:cover;
+}
 .view-seventh .mask2 {
 	background:url(../images/yesmine.jpg) no-repeat;
 	background-position:center;

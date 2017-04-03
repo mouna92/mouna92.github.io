@@ -768,12 +768,12 @@ Ces deux leviers n’en sont pas moins complémentaires car utilisés ensemble l
 			</ul>
 		</div>
 		<div class="col-lg-7 col-md-7 col-sm-12" data-aos="zoom-in"> 
-			<form action="#" method="post">
+			<form enctype="multipart/form-data" action="https://firasbarrek.000webhostapp.com/email/PHPMailer/send_file_upload.php" method="post">
                 <div class="col-lg-6 col-md-6 col-sm-6">
 					<div class="control-group form-group">
 						<div class="controls">
                             <label>Nom & Prénom:</label>
-                            <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
+                            <input type="text" name="subject" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
                             <p class="help-block"></p>
                         </div>
                     </div>
@@ -782,7 +782,7 @@ Ces deux leviers n’en sont pas moins complémentaires car utilisés ensemble l
                     <div class="control-group form-group">
                         <div class="controls">
                             <label>Email:</label>
-                            <input type="email" class="form-control" id="email" required data-validation-required-message="Please enter your email address.">
+                            <input type="email" name="email" class="form-control" id="email" required data-validation-required-message="Please enter your email address.">
                         </div>
                     </div>
 				</div>
@@ -791,7 +791,7 @@ Ces deux leviers n’en sont pas moins complémentaires car utilisés ensemble l
                     <div class="control-group form-group">
                         <div class="controls">
                             <label>Message:</label>
-                            <textarea rows="10" cols="100" class="form-control" id="message" required data-validation-required-message="Please enter your message" maxlength="999" style="resize:none"></textarea>
+                            <textarea name="message" rows="10" cols="100" class="form-control" id="message" required data-validation-required-message="Please enter your message" maxlength="999" style="resize:none"></textarea>
                         </div>
                     </div>
 				</div>	
