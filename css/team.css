@@ -32,7 +32,7 @@
 	-o-background-size:cover;
 	-moz-background-size:cover;
 }
-.view-seventh .maskt1 {
+.view-seventh .mask1 {
 	background:url(../images/rym.png) no-repeat;
 	background-position:center;
 	background-size:cover;
@@ -50,15 +50,6 @@
 	-o-background-size:cover;
 	-moz-background-size:cover;
 }
-.view-seventh .maskt2 {
-	background:url(../images/Douha.jpg) no-repeat;
-	background-position:center;
-	background-size:cover;
-	-webkit-background-size:cover;
-	-moz-background-size:cover;
-	-o-background-size:cover;
-	-moz-background-size:cover;
-}
 .view-seventh .mask3 {
 	background:url(../images/khaled.png) no-repeat;
 	background-position:center;
@@ -68,26 +59,8 @@
 	-o-background-size:cover;
 	-moz-background-size:cover;
 }
-.view-seventh .maskt3 {
-	background:url(../images/mohsen.jpg) no-repeat;
-	background-position:center;
-	background-size:cover;
-	-webkit-background-size:cover;
-	-moz-background-size:cover;
-	-o-background-size:cover;
-	-moz-background-size:cover;
-}
 .view-seventh .mask4 {
 	background:url(../images/hadhemi.jpg) no-repeat;
-	background-position:center;
-	background-size:cover;
-	-webkit-background-size:cover;
-	-moz-background-size:cover;
-	-o-background-size:cover;
-	-moz-background-size:cover;
-}
-.view-seventh .maskt4 {
-	background:url(../images/amine.jpg) no-repeat;
 	background-position:center;
 	background-size:cover;
 	-webkit-background-size:cover;
