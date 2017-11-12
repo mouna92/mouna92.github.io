@@ -14,23 +14,26 @@
 	xmlns:contact="http://www.w3.org/2000/10/swap/pim/contact#" 
 	xmlns:dc="http://purl.org/dc/elements/1.1/">
 
-  <foaf:PersonalProfileDocument rdf:about="http://mounasassi.me/Myresume.rdf">
+  <foaf:PersonalProfileDocument rdf:about="http://danbri.org/foaf.rdf">
         <wot:assurance rdf:resource="foaf.rdf.asc"/> <!-- GPG experiment --> 
         <wot:assurance rdf:resource="foaf.rdf.sigdata"/><!-- XML Sig experiment -->
-        <foaf:primaryTopic rdf:resource="#mouna"/>
+        <foaf:primaryTopic rdf:resource="#danbri"/>
   </foaf:PersonalProfileDocument>
 
-  <Person rdf:ID="mouna">
-    <foaf:name>Sassi Mouna</foaf:name>
-    <foaf:nick>mouna</foaf:nick>
-  
+  <Person rdf:ID="danbri">
+    <foaf:name>Dan Brickley</foaf:name>
+    <foaf:nick>danbri</foaf:nick>
+    <owl:sameAs rdf:resource="http://foaf.me/danbri#me"/>
 
  <!-- 1999-2005 :)
     <workplaceHomepage rdf:resource="http://www.w3.org/"/>
   -->
-    <foaf:jabberID>mouna.sassi@esprit.tn</foaf:jabberID>
+    <foaf:jabberID>danbri@jabber.org</foaf:jabberID>
+    <foaf:aimChatID>danbri_2002</foaf:aimChatID>
+    <foaf:msnChatID>danbri@hotmail.co.uk</foaf:msnChatID>
 
-    <mbox rdf:resource="mouna.sassi@esprit.tn"/>
+    <mbox rdf:resource="mailto:danbri@danbri.org"/>
+    <mbox rdf:resource="mailto:danbri@porklips.org"/>
 
     <tipjar rdf:resource="http://www.amazon.co.uk/gp/registry/wishlist/1WT22JNQQBA6Q" />
 
