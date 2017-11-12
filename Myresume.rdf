@@ -14,7 +14,7 @@
 	xmlns:contact="http://www.w3.org/2000/10/swap/pim/contact#" 
 	xmlns:dc="http://purl.org/dc/elements/1.1/">
 
-  <foaf:PersonalProfileDocument rdf:about="http://mounasassi.me/Myresume.rdfa">
+  <foaf:PersonalProfileDocument rdf:about="http://mounasassi.me/Myresume.rdf">
         <wot:assurance rdf:resource="foaf.rdf.asc"/> <!-- GPG experiment --> 
         <wot:assurance rdf:resource="foaf.rdf.sigdata"/><!-- XML Sig experiment -->
         <foaf:primaryTopic rdf:resource="#mouna"/>
