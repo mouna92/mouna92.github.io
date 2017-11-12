@@ -11,12 +11,15 @@
     xmlns:sioc="http://rdfs.org/sioc/ns#"
     xmlns:owl="http://www.w3.org/2002/07/owl#"
     xmlns:admin="http://webns.net/mvcb/"
+	xmlns="http://xmlns.com/foaf/0.1/"
     xmlns:rel="http://purl.org/vocab/relationship/">
 <foaf:PersonalProfileDocument rdf:about="http://mounasassi.me/Myresume.rdf">
+        <wot:assurance rdf:resource="foaf.rdf.asc"/> <!-- GPG experiment --> 
+        <wot:assurance rdf:resource="foaf.rdf.sigdata"/><!-- XML Sig experiment -->
         <foaf:primaryTopic rdf:resource="#mouna"/>
   </foaf:PersonalProfileDocument>
 
-<foaf:Person rdf:ID="mouna">
+<Person rdf:ID="mouna">
 
 <foaf:name>Mouna Sassi</foaf:name>
 <foaf:title>M.</foaf:title>
@@ -27,9 +30,9 @@
 <foaf:homepage rdf:resource="http://mounasassi.me" dc:title="Sassi Mouna | CV | Ingénieur et développeur web front end | Tunisie"/>
 <foaf:img rdf:resource="http://mounasassi.me/images/manou.jpg"/>
 <foaf:gender>female</foaf:gender>
-</foaf:Person>
+</Person>
 <foaf:knows>
-    <foaf:Person rdf:about="http://mounasassi.me/Myresume.rdf">
+    <foaf:Person rdf:about="http://mmt.me.uk/foaf.rdf#mischa">
         <foaf:name>Francois Scharffe</foaf:name>
         <foaf:depiction rdf:resource="http://www.scharffe.fr/pics/profil.png" dc:title="Au bureau"/>
     </foaf:Person>
