@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-    xmlns:foaf="http://xmlns.com/foaf/0.1/"
-    xmlns:bio="http://purl.org/vocab/bio/0.1/"
-    xmlns:dc="http://purl.org/dc/terms/"
-    xmlns:lang="http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
-    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-    xmlns:doac="http://ramonantonio.net/doac/0.1/"
-    xmlns:menow="http://schema.peoplesdns.com/menow/"
-    xmlns:sioc="http://rdfs.org/sioc/ns#"
-    xmlns:owl="http://www.w3.org/2002/07/owl#"
-    xmlns:admin="http://webns.net/mvcb/"
-    xmlns:rel="http://purl.org/vocab/relationship/">
+<rdf:RDF 
+	xml:lang="en" 
+	xmlns:wot="http://xmlns.com/wot/0.1/" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:lang="http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+	xmlns:rss="http://purl.org/rss/1.0/" xmlns="http://xmlns.com/foaf/0.1/" 
+	xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:wn="http://xmlns.com/wordnet/1.6/" 
+	xmlns:air="http://www.megginson.com/exp/ns/airports#" 
+	xmlns:contact="http://www.w3.org/2000/10/swap/pim/contact#" 
+	xmlns:dc="http://purl.org/dc/elements/1.1/">
 <foaf:PersonalProfileDocument rdf:about="http://mounasassi.me/Myresume.rdf">
         <foaf:primaryTopic rdf:resource="#mouna"/>
   </foaf:PersonalProfileDocument>
