@@ -15,8 +15,7 @@
 <foaf:PersonalProfileDocument rdf:about="http://mounasassi.me/Myresume.rdf">
         <foaf:primaryTopic rdf:resource="#mouna"/>
   </foaf:PersonalProfileDocument>
-
-<Person rdf:ID="http://mounasassi.me/Myresume.rdf">
+<foaf:Person rdf:ID="mouna">
 <foaf:name>Mouna Sassi</foaf:name>
 <foaf:title>M.</foaf:title>
 <foaf:givenname>Mouna</foaf:givenname>
@@ -27,5 +26,5 @@
 <foaf:img rdf:resource="http://mounasassi.me/images/manou.jpg"/>
 <foaf:gender>female</foaf:gender>
 <tipjar rdf:resource="http://mounasassi.me" />
-</Person>
+</foaf:Person>
 </rdf:RDF>
