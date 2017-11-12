@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <rdf:RDF 
 	xml:lang="en" 
 	xmlns:wot="http://xmlns.com/wot/0.1/" 
@@ -26,5 +26,6 @@
 <foaf:homepage rdf:resource="http://mounasassi.me" dc:title="Sassi Mouna | CV | Ingénieur et développeur web front end | Tunisie"/>
 <foaf:img rdf:resource="http://mounasassi.me/images/manou.jpg"/>
 <foaf:gender>female</foaf:gender>
+<tipjar rdf:resource="http://mounasassi.me" />
 </Person>
 </rdf:RDF>
