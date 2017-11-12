@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<rdf:RDF 
+	xml:lang="en" 
+	xmlns:wot="http://xmlns.com/wot/0.1/" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:lang="http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+	xmlns:rss="http://purl.org/rss/1.0/" xmlns="http://xmlns.com/foaf/0.1/" 
+	xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:wn="http://xmlns.com/wordnet/1.6/" 
+	xmlns:air="http://www.megginson.com/exp/ns/airports#" 
+	xmlns:contact="http://www.w3.org/2000/10/swap/pim/contact#" 
+	xmlns:dc="http://purl.org/dc/elements/1.1/">
+<foaf:PersonalProfileDocument rdf:about="http://mounasassi.me/Myresume.rdf">
+        <foaf:primaryTopic rdf:resource="#mouna"/>
+  </foaf:PersonalProfileDocument>
+<foaf:Person rdf:ID="mouna">
+<foaf:name>Mouna Sassi</foaf:name>
+<foaf:title>M.</foaf:title>
+<foaf:givenname>Mouna</foaf:givenname>
+<foaf:family_name>Sassi</foaf:family_name>
+<foaf:nick>Manou</foaf:nick>
+<foaf:dateOfBirth>1992-06-25</foaf:dateOfBirth>
+<foaf:homepage rdf:resource="http://mounasassi.me" dc:title="Sassi Mouna | CV | Ingénieur et développeur web front end | Tunisie"/>
+<foaf:img rdf:resource="http://mounasassi.me/images/manou.jpg"/>
+<foaf:gender>female</foaf:gender>
+<tipjar rdf:resource="http://mounasassi.me" />
+</foaf:Person>
+</rdf:RDF>
