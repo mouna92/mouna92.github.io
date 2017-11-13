@@ -28,7 +28,7 @@
 <foaf:gender>female</foaf:gender>
 <tipjar rdf:resource="http://mounasassi.me"/>
 </foaf:Person>
-<doac:experience>
+<!--<doac:experience>
     <doac:Experience>
         <doac:title> Freelance </doac:title>
         <doac:location>GeeksData</doac:location>
@@ -43,8 +43,6 @@
     <doac:Experience>
         <doac:title>Téléopératrice</doac:title>
         <doac:location>Best Contact</doac:location>
-        <doac:date-starts>2014-09-01</doac:date-starts>
-        <doac:date-ends>2015-07-01</doac:date-ends>
         <doac:activity>Émission d’appel-Prise des rendez-vous. Émission d’appel-Vente.</doac:activity>
     </doac:Experience>
 </doac:experience>
@@ -61,8 +59,6 @@
         <foaf:organization> Institut supérieur d’informatique</foaf:organization>
 		<doac:location>Mahdia</doac:location>
         <doac:title>Diplôme de licence appliquée en informatique</doac:title>
-        <doac:date-starts>2011-09-01</doac:date-starts>
-        <doac:date-ends>2014-06-03</doac:date-ends>
     </doac:Education>
 </doac:education>
 <foaf:knows>
@@ -70,5 +66,5 @@
         <foaf:name>Barrek Mohamed Firas</foaf:name>
         <mbox rdf:resource="mailto:mohamedfiras.barrek@esprit.tn"/>
 		</foaf:Person>
-</foaf:knows>
+</foaf:knows>-->
 </rdf:RDF>
