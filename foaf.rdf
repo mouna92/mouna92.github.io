@@ -278,7 +278,7 @@
 
    <knows>
     <Person>
-      <name>Amy van der Hiel</name>
+      <name>Narimen</name>
       <foaf:mbox_sha1sum>1839a1cc2e719a85ea7d9007f587b2899cd94064</foaf:mbox_sha1sum>
       <rdfs:seeAlso rdf:resource="http://people.w3.org/amy/foaf.rdf" />
     </Person>
@@ -286,7 +286,7 @@
 
     <knows>
       <Person>
-        <name>Joe Brickley</name>
+        <name>Barrek Mohamed Firas</name>
         <mbox rdf:resource="mailto:joe.brickley@btopenworld.com"/>
         <rdfs:seeAlso rdf:resource="http://hippyrigs.fiendsreunited.com/people/joe/foaf.rdf"/>
       </Person>
@@ -294,7 +294,7 @@
 
     <knows>
       <Person>
-        <name>Eric Miller</name>
+        <name>Ouertani Mohamed Firas</name>
         <mbox rdf:resource="mailto:em@w3.org"/>
         <img rdf:resource="http://www.oclc.org/~emiller/capture.jpg"/>
         <depiction>
