@@ -3,9 +3,10 @@
 <rdf:RDF 
 	xml:lang="en" 
 	xmlns:wot="http://xmlns.com/wot/0.1/" 
-        xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
 	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:doac = " http://ramonantonio.net/doac/0.1/ " 
 	xmlns:lang="http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
 	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
 	xmlns:rss="http://purl.org/rss/1.0/" xmlns="http://xmlns.com/foaf/0.1/" 
@@ -88,7 +89,21 @@
 
   </Person>
 
- 
+ <doac:education>
+    <doac:Education>
+        <foaf:organization>University of Montpellier</foaf:organization>
+        <doac:title>Master in Artificial intelligence</doac:title>
+        <doac:date-starts>2010-09-01</doac:date-starts>
+    </doac:Education>
+</doac:education>
+<doac:education>
+    <doac:Education>
+        <foaf:organization>University of Montpellier</foaf:organization>
+        <doac:title>Licence in Computer sciences with congratulations</doac:title>
+        <doac:date-starts>2007-09-01</doac:date-starts>
+        <doac:date-ends>2010-06-30</doac:date-ends>
+    </doac:Education>
+</doac:education>
 
 
  
