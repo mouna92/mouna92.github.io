@@ -36,34 +36,6 @@
 
     <!-- Some retired mailboxes ...-->
 
-    <mbox> 
-      <rdf:Description rdf:about="mailto:danbri@w3.org"> 
-        <dct:isReplacedBy rdf:resource="mailto:danbri@danbri.org"/>
-      </rdf:Description>
-    </mbox>
-
-    <mbox> 
-      <rdf:Description rdf:about="mailto:daniel.brickley@bristol.ac.uk"> 
-        <dct:isReplacedBy rdf:resource="mailto:danbri@danbri.org"/>
-      </rdf:Description>
-    </mbox>
-
-    <mbox> 
-      <rdf:Description rdf:about="mailto:danbri@rdfweb.org"> 
-        <dct:isReplacedBy rdf:resource="mailto:danbri@danbri.org"/>
-      </rdf:Description>
-    </mbox>
-
-    <mbox> 
-      <rdf:Description rdf:about="mailto:danbri@apocalypse.org"> 
-        <dct:isReplacedBy rdf:resource="mailto:danbri@danbri.org"/>
-      </rdf:Description>
-    </mbox>
-
-
-    <mbox_sha1sum>6e80d02de4cb3376605a34976e31188bb16180d0</mbox_sha1sum>
-    <mbox_sha1sum xml:lang="">6e80d02de4cb3376605a34976e31188bb16180d0</mbox_sha1sum>
-
 
     <uranai:bloodtype xmlns:uranai="http://kota.s12.xrea.com/vocab/uranai"
 	>A+</uranai:bloodtype>
