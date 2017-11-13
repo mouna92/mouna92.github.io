@@ -29,7 +29,6 @@
 </foaf:Person>
 <foaf:knows>
  <foaf:Person>
-<mbox rdf:resource="mailto:libby@asemantics.com"/>
  </foaf:Person>
  </foaf:knows>
  </rdf:RDF>
