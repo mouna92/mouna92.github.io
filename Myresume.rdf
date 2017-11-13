@@ -29,7 +29,8 @@
 <tipjar rdf:resource="http://mounasassi.me"/>
 </foaf:Person>
 <knows>
-      <Person>
-        <mbox rdf:resource="mailto:mohamedfiras.barrek@esprit.tn"/>
-      </Person>
+ <Person>
+<foaf:name>Barrek Mohamed Firas</foaf:name>     
+ </Person>
+ </knows>
  </rdf:RDF>
