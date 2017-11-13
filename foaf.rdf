@@ -24,66 +24,17 @@
     <foaf:name>Sasi Mouna</foaf:name>
     <foaf:nick>mouna</foaf:nick>
     <owl:sameAs rdf:resource="http://mounasassi.me/foaf.rdf"/>
-
- <!-- 1999-2005 :)
-    <workplaceHomepage rdf:resource="http://www.w3.org/"/>
-  -->
     <foaf:jabberID>mouna.sassi@esprit.tn</foaf:jabberID>
 
     <mbox rdf:resource="mouna.sassi@esprit.tn"/>
     <mbox rdf:resource="mounasassi92@gmail.com"/>
-
-
-    <!-- Some retired mailboxes ...-->
 	<foaf:holdsAccount>
       <foaf:OnlineAccount>
         <foaf:accountServiceHomepage rdf:resource="http://www.skype.com/"/>
         <foaf:accountName>Mouna Sassi</foaf:accountName>
       </foaf:OnlineAccount>
     </foaf:holdsAccount>
-
-    <rdfs:seeAlso rdf:resource="http://mystatus.skype.com/danbrickley.xml"/>
-    <rdfs:seeAlso rdf:resource="http://foaf.qdos.com/reverse?path=http://danbri.org/foaf.rdf%23danbri"/>
-
-	<foaf:holdsAccount>
-      <foaf:OnlineAccount>
-        <foaf:accountServiceHomepage rdf:resource="http://del.icio.us"/>
-        <foaf:accountProfilePage rdf:resource="http://del.icio.us/danbri/"/>
-        <foaf:accountName>danbri</foaf:accountName>
-      </foaf:OnlineAccount>
-    </foaf:holdsAccount>
-
-	<foaf:holdsAccount>
-      <foaf:OnlineAccount>
-        <foaf:accountServiceHomepage rdf:resource="http://www.livejournal.com/"/>
-        <foaf:accountProfilePage rdf:resource="http://danbri.livejournal.com/"/>
-        <foaf:accountName>danbri</foaf:accountName>
-      </foaf:OnlineAccount>
-    </foaf:holdsAccount>
-
-   <foaf:openid rdf:resource="http://danbri.org/"/>
-
-    <rdfs:seeAlso>
-	  <rss:channel rdf:about="http://del.icio.us/rss/danbri">
-        <dc:title>del.icio.us/danbri</dc:title>
-        <dc:description>del.icio.us bookmarks as an RSS 1.0 news feed</dc:description>
-      </rss:channel>
-    </rdfs:seeAlso>
-    
-    <foaf:holdsAccount>
-	  <foaf:OnlineAccount>
-        <foaf:accountServiceHomepage rdf:resource="http://www.flickr.com/"/>
-        <foaf:accountProfilePage rdf:resource="http://www.flickr.com/people/danbri/"/>
-        <foaf:accountName>danbri</foaf:accountName>
-      </foaf:OnlineAccount>
-    </foaf:holdsAccount>
-	
-
-
-
-
-
-    <lang:masters>en</lang:masters>
+	<lang:masters>en</lang:masters>
     <homepage rdf:resource="http://mounasassi.me/"/>
     <foaf:dateOfBirth>1992-06-25</foaf:dateOfBirth>
     <foaf:img rdf:resource="http://mounasassi.me/images/manou.jpg"/>
