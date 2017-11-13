@@ -36,7 +36,7 @@
             <rss:title>Channel of Filth</rss:title>
             <rdfs:seeAlso rdf:resource="http://www.glandscape.com/cgi-bin/prnxml.rss"/>
           </foaf:channel>
-        </rdf:made>
+        </foaf:made>
       </foaf:Person>
     </foaf:knows>
  </rdf:RDF>
