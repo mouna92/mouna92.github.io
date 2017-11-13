@@ -61,8 +61,7 @@
 
     <knows>
       <Person rdf:about="http://www.w3.org/People/Berners-Lee/card#i">
-       <name>Tim Berners-Lee</name>
-       <isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Tim_Berners-Lee"/>
+       <name>Ouerani Mohamed Firas</name>
        <homepage rdf:resource="http://www.w3.org/People/Berners-Lee/"/>
        <mbox rdf:resource="mailto:timbl@w3.org"/>
       <rdfs:seeAlso rdf:resource="http://www.w3.org/People/Berners-Lee/card"/>
@@ -71,7 +70,7 @@
 
     <knows>
       <Person>
-        <name>Dean Jackson</name>
+        <name>Nariman Hadj Kacem</name>
         <rdfs:seeAlso rdf:resource="http://www.grorg.org/dean/foaf.rdf"/>
         <mbox rdf:resource="mailto:dean@w3.org"/>
         <mbox rdf:resource="mailto:dino@grorg.org"/>
@@ -79,206 +78,11 @@
         <homepage rdf:resource="http://www.grorg.org/dean/"/>
       </Person>
     </knows>
-
     <knows>
-      <Person>
-        <name>Mr Benn</name>
-        <rdfs:seeAlso rdf:resource="http://www.ldodds.com/foaf/mrbenn.rdf"/>
-	<mbox_sha1sum>057bfacf1fc491cfca8df1028c5223c1e0ccbc79</mbox_sha1sum>
-	<homepage rdf:resource="http://www.mrbenn.co.uk"/>
-	<img rdf:resource="http://www.printchk.demon.co.uk/jpg/mrben1.jpg"/>
-      </Person>
-    </knows>
-
-    <knows>
-      <Person rdf:about="http://www.ils.unc.edu/~janeg/foaf.rdf#me">
-	<name>Jane Greenberg</name>
-        <mbox rdf:resource="mailto:janeg@email.unc.edu"/>
-	<rdfs:seeAlso rdf:resource="http://www.ils.unc.edu/~janeg/foaf.rdf#me"/>
-      </Person>
-    </knows>
-
-    <knows>
-      <Person>
-        <mbox rdf:resource="mailto:craig@coolstuffhere.co.uk"/>
-      </Person>
-    </knows>
-    <knows>
-      <Person>
-        <mbox rdf:resource="mailto:mags@apocalypse.org"/>
-      </Person>
-    </knows>
-    <knows>
-      <Person>
-        <mbox rdf:resource="mailto:d.m.steer@lse.ac.uk"/>
-      </Person>
-    </knows>
-    <knows>
-      <Person>
-        <mbox rdf:resource="mailto:ian.sealy@bristol.ac.uk"/>
-      </Person>
-    </knows>
-<!-- etc... -->
-    <knows>
-      <Person foaf:name="Jim Ley" foaf:nick="JibberJim">
+      <Person foaf:name="Riahi Mourad" foaf:nick="modmod">
         <rdfs:seeAlso rdf:resource="http://jibbering.com/foaf.rdf"/>
-        <mbox rdf:resource="mailto:jim@jibbering.com"/>
+        <mbox rdf:resource="mourad@gmail.com"/>
       </Person>
-    </knows>
-    <knows>
-      <Person foaf:name="Edd Dumbill" foaf:nick="edd">
-        <rdfs:seeAlso rdf:resource="http://heddley.com/edd/foaf.rdf"/>
-        <mbox rdf:resource="mailto:edd@usefulinc.com"/>
-        <mbox rdf:resource="mailto:edd@xml.com"/>
-        <mbox rdf:resource="mailto:edd@xmlhack.com"/>
-        <homepage rdf:resource="http://heddley.com/edd/"/>
-      </Person>
-    </knows>
-    <knows>
-      <Person>
-        <name>Martin Poulter</name>
-        <mbox rdf:resource="mailto:m.l.poulter@bristol.ac.uk"/>
-        <rdfs:seeAlso rdf:resource="http://www.weird.co.uk/martin/webwho.xrdf"/>
-        <homepage rdf:resource="http://www.weird.co.uk/martin/"/>
-      </Person>
-    </knows>
-    <knows>
-      <Person>
-        <name>Libby Miller</name>
-        <mbox rdf:resource="mailto:libby.miller@bristol.ac.uk"/>
-        <img rdf:resource="http://swordfish.rdfweb.org/~libby/libby.jpg"/>
-        <depiction>
-          <rdf:Description rdf:about="http://rdfweb.org/people/danbri/rdfweb/libby.gif">
-            <thumbnail rdf:resource="http://rdfweb.org/people/danbri/rdfweb/libby.gif"/>
-            <dc:title>Libby Miller, Oxford (1993-ish)</dc:title>
-            <dc:description>A photo of Libby Miller, taken while at Oxford University</dc:description>
-            <dc:format>image/gif</dc:format>
-          </rdf:Description>
-        </depiction>
-      </Person>
-    </knows>
-
-   <knows>
-    <Person>
-      <name>Amy van der Hiel</name>
-      <foaf:mbox_sha1sum>1839a1cc2e719a85ea7d9007f587b2899cd94064</foaf:mbox_sha1sum>
-      <rdfs:seeAlso rdf:resource="http://people.w3.org/amy/foaf.rdf" />
-    </Person>
-   </knows>
-
-    <knows>
-      <Person>
-        <name>Joe Brickley</name>
-        <mbox rdf:resource="mailto:joe.brickley@btopenworld.com"/>
-        <rdfs:seeAlso rdf:resource="http://hippyrigs.fiendsreunited.com/people/joe/foaf.rdf"/>
-      </Person>
-    </knows>
-
-    <knows>
-      <Person>
-        <name>Eric Miller</name>
-        <mbox rdf:resource="mailto:em@w3.org"/>
-        <img rdf:resource="http://www.oclc.org/~emiller/capture.jpg"/>
-        <depiction>
-          <Image rdf:about="http://www.ilrt.bristol.ac.uk/people/cmdjb/events/dc7/orig/eric.png">
-            <dc:thumbnail rdf:resource="http://www.ilrt.bristol.ac.uk/people/cmdjb/events/dc7/orig/eric.png"/>
-            <dc:title>Eric Miller, relaxing.</dc:title>
-            <dc:description>Eric Miller, relaxing.</dc:description>
-            <dc:format>image/png</dc:format>
-          </Image>
-        </depiction>
-        <homepage rdf:resource="http://purl.org/net/eric/"/>
-        <rdfs:seeAlso rdf:resource="http://purl.org/net/eric/webwho.xrdf"/>
-        <name>Eric Miller</name>
-      </Person>
-    </knows>
-    <knows>
-      <Person>
-        <name>Jan Grant</name>
-        <mbox rdf:resource="mailto:jan.grant@bristol.ac.uk"/>
-        <rdfs:seeAlso rdf:resource="http://ioctl.org/jan/webwho.xrdf"/>
-        <depiction>
-          <Image rdf:about="http://ioctl.org/jan/test/wizard.jpg">
-            <dc:thumbnail rdf:resource="http://ioctl.org/jan/test/wizard.jpg"/>
-            <dc:title>Jan Grant, Queen's Silver Jubilee</dc:title>
-            <dc:description>vi user</dc:description>
-            <dc:format>image/jpeg</dc:format>
-          </Image>
-        </depiction>
-      </Person>
-    </knows>
-    <knows>
-      <Person>
-        <mbox rdf:resource="mailto:michaelm@netsol.com"/>
-        <rdfs:seeAlso rdf:resource="http://bailey.dscga.com/michaelmwho.xrdf"/>
-      </Person>
-    </knows>
-    <knows>
-      <Person>
-        <name>Aaron Swartz</name>
-        <made>
-          <rss:channel rdf:about="http://www.blogspace.com/rss/rss10">
-            <rss:title>RSS Info</rss:title>
-            <rdfs:seeAlso rdf:resource="http://www.blogspace.com/rss/rss10"/>
-          </rss:channel>
-        </made>
-        <rdfs:seeAlso rdf:resource="http://www.aaronsw.com/about.xrdf"/>
-      </Person>
-    </knows>
-    <knows>
-      <Person>
-        <mbox rdf:resource="mailto:dave.beckett@bristol.ac.uk"/>
-        <rdfs:seeAlso rdf:resource="http://purl.org/net/dajobe/webwho.xrdf"/>
-        <name>Dave Beckett</name>
-      </Person>
-    </knows>
-    <knows>
-      <Person>
-        <name>Art Barstow</name>
-        <mbox rdf:resource="mailto:barstow@w3.org"/>
-        <rdfs:seeAlso rdf:resource="http://www.w3.org/People/Barstow/webwho.rdf"/>
-        <name>Art Barstow</name>
-      </Person>
-    </knows>
-    <knows>
-      <Person>
-        <rdfs:seeAlso rdf:resource="http://www.w3.org/People/Connolly/home-smart.rdf"/>
-        <mbox rdf:resource="mailto:connolly@w3.org"/>
-        <name>Dan Connolly</name>
-        <nick>DanCon</nick>
-      </Person>
-    </knows>
-    <knows>
-      <Person>
-        <mbox rdf:resource="mailto:d.m.steer@lse.ac.uk"/>
-        <name>Damian Steer</name>
-        <nick>damey</nick>
-        <depiction rdf:resource="http://website.lineone.net/~steve_c-t/Scientology/Pickets/10-03-2001/damien.jpg"/>
-      </Person>
-    </knows>
-
-
-    <knows>
-<Person>
-<name>Ludovic Hirlimann</name>
-<nick>Softkid</nick>
-<mbox_sha1sum>927ed281057a507d882338eb57f74551f6771325</mbox_sha1sum>
-<homepage rdf:resource="http://perso.hirlimann.net/~ludo/"/>
-<weblog rdf:resource="http://perso.hirlimann.net/~ludo/blog/"/>
-<rdfs:seeAlso rdfs:resource="http://perso.hirlimann.net/~ludo/foaf.rdf"/>
-</Person>
-    </knows>
-
-
-
-    <knows>
-<Person>
-<name>Tatiana de la O</name>
-<nick>acracia</nick>
-<foaf:mbox_sha1sum>3503542c873bb150ccb307743e33b826cac89e32</foaf:mbox_sha1sum>
-<foaf:homepage rdf:resource="http://delcorp.org/abbadingo"/>
-<rdfs:seeAlso rdf:resource="http://delcorp.org/abbadingo/foaf.rdf"/>
-</Person>
     </knows>
 
 
