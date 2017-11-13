@@ -33,7 +33,6 @@
       <foaf:Person> 
         <!-- <foaf:name>Barrek mohamed firas</foaf:name> -->
         <foaf:made>
-          <rss:channel rdf:about="http://www.glandscape.com/cgi-bin/prnxml.rss">
             <rss:title>Channel of Filth</rss:title>
             <rdfs:seeAlso rdf:resource="http://www.glandscape.com/cgi-bin/prnxml.rss"/>
           </foaf:channel>
