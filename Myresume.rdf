@@ -15,7 +15,7 @@
 <foaf:PersonalProfileDocument rdf:about="http://mounasassi.me/Myresume.rdf">
         <foaf:primaryTopic rdf:resource="#mouna"/>
   </foaf:PersonalProfileDocument>
-<foaf:Person rdf:ID="https://github.com/mouna92/mouna92.github.io/blob/master/Myresume.rdf">
+<foaf:Person rdf:ID="http://mounasassi.me/Myresume.rdf">
 <foaf:name>Mouna Sassi</foaf:name>
 <foaf:title>M.</foaf:title>
 <foaf:givenname>Mouna</foaf:givenname>
