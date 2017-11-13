@@ -62,7 +62,7 @@
     </doac:Education>
 </doac:education>
 <foaf:knows>
-    <foaf:Person rdf:about="http://firasbarrek.me/my_rdf">
+    <foaf:Person rdf:about="http://firasbarrek.me/my_rdf.rdf">
         <foaf:name>Barrek Mohamed Firas</foaf:name>
         <mbox rdf:resource="mailto:mohamedfiras.barrek@esprit.tn"/>
 		</foaf:Person>
