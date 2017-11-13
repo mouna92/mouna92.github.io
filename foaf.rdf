@@ -21,8 +21,8 @@
   </foaf:PersonalProfileDocument>
 
   <Person rdf:ID="danbri">
-    <foaf:name>Dan Brickley</foaf:name>
-    <foaf:nick>danbri</foaf:nick>
+    <foaf:name>Sassi Mouna</foaf:name>
+    <foaf:nick>mouna</foaf:nick>
     <owl:sameAs rdf:resource="http://foaf.me/danbri#me"/>
 
  <!-- 1999-2005 :)
