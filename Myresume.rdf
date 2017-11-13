@@ -29,15 +29,15 @@
 <foaf:img rdf:resource="http://mounasassi.me/images/manou.jpg"/>
 <foaf:gender>female</foaf:gender>
 </foaf:Person>
-<knows>
-      <Person> 
-        <name>Barrek mohamed firas</name>
-        <made>
+<rdf:knows>
+      <rdf:Person> 
+        <rdf:name>Barrek mohamed firas</name>
+        <rdf:made>
           <rss:channel rdf:about="http://www.glandscape.com/cgi-bin/prnxml.rss">
             <rss:title>Channel of Filth</rss:title>
             <rdfs:seeAlso rdf:resource="http://www.glandscape.com/cgi-bin/prnxml.rss"/>
           </rss:channel>
-        </made>
-      </Person>
-    </knows>
+        </rdf:made>
+      </rdf:Person>
+    </rdf:knows>
  </rdf:RDF>
