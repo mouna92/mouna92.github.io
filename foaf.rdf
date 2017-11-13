@@ -30,8 +30,8 @@
   -->
     <foaf:jabberID>mouna.sassi@esprit.tn</foaf:jabberID>
 
-    <mbox rdf:resource="mailto:mouna.sassi@esprit.tn"/>
-    <mbox rdf:resource="mailto:mounasassi92@gmail.com"/>
+    <mbox rdf:resource="mouna.sassi@esprit.tn"/>
+    <mbox rdf:resource="mounasassi92@gmail.com"/>
 
 
     <!-- Some retired mailboxes ...-->
