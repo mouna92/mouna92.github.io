@@ -14,7 +14,7 @@
 	xmlns:contact="http://www.w3.org/2000/10/swap/pim/contact#" 
 	xmlns:dc="http://purl.org/dc/elements/1.1/">
 
-  <foaf:PersonalProfileDocument rdf:about="http://danbri.org/foaf.rdf">
+  <foaf:PersonalProfileDocument rdf:about="http://mounasassi.me/foaf.rdf">
         <wot:assurance rdf:resource="foaf.rdf.asc"/> <!-- GPG experiment --> 
         <wot:assurance rdf:resource="foaf.rdf.sigdata"/><!-- XML Sig experiment -->
         <foaf:primaryTopic rdf:resource="#danbri"/>
@@ -23,7 +23,7 @@
   <Person rdf:ID="danbri">
     <foaf:name>Dan Brickley</foaf:name>
     <foaf:nick>danbri</foaf:nick>
-    <owl:sameAs rdf:resource="http://foaf.me/danbri#me"/>
+    <owl:sameAs rdf:resource="http://mounasassi.me/foaf.rdf"/>
 
  <!-- 1999-2005 :)
     <workplaceHomepage rdf:resource="http://www.w3.org/"/>
