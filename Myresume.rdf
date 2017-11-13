@@ -26,7 +26,6 @@
 <foaf:homepage rdf:resource="http://mounasassi.me" dc:title="Sassi Mouna | CV | Ingénieur et développeur web front end | Tunisie"/>
 <foaf:img rdf:resource="http://mounasassi.me/images/manou.jpg"/>
 <foaf:gender>female</foaf:gender>
-<tipjar rdf:resource="http://mounasassi.me"/>
 </foaf:Person>
 <foaf:knows>
  <foaf:Person>
