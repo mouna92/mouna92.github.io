@@ -28,9 +28,8 @@
 <foaf:gender>female</foaf:gender>
 <tipjar rdf:resource="http://mounasassi.me"/>
 </foaf:Person>
-<foaf:knows>
-    <foaf:Person rdf:about="http://firasbarrek.me/my_rdf.rdf">
-        <foaf:name>Barrek Mohamed Firas</foaf:name>
+<knows>
+      <Person>
         <mbox rdf:resource="mailto:mohamedfiras.barrek@esprit.tn"/>
-		</foaf:Person>
-</foaf:knows>
+      </Person>
+ </rdf:RDF>
