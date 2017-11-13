@@ -28,35 +28,6 @@
 <foaf:gender>female</foaf:gender>
 <tipjar rdf:resource="http://mounasassi.me"/>
 </foaf:Person>
-<doac:experience>
-    <doac:Experience>
-        <doac:location>GeeksData</doac:location>
-        <doac:activity>
-            Intégration d’un template web en utilisant Html, Css, javascript et Bootstrap.
-        </doac:activity>
-    </doac:Experience>
-</doac:experience>
-<doac:experience>
-    <doac:Experience>
-        <doac:title>Téléopératrice</doac:title>
-        <doac:location>Best Contact</doac:location>
-        <doac:activity>Émission d’appel-Prise des rendez-vous. Émission d’appel-Vente.</doac:activity>
-    </doac:Experience>
-</doac:experience>
-<doac:education>
-    <doac:Education>
-        <foaf:organization> École Supérieure Privée d’Ingénierie et de Technologies – ESPRIT</foaf:organization>
-		<doac:location>Ariana</doac:location>
-        <doac:title>Diplôme d’ingenieur Spécialité Développement web</doac:title>
-    </doac:Education>
-</doac:education>
-<doac:education>
-    <doac:Education>
-        <foaf:organization> Institut supérieur d’informatique</foaf:organization>
-		<doac:location>Mahdia</doac:location>
-        <doac:title>Diplôme de licence appliquée en informatique</doac:title>
-    </doac:Education>
-</doac:education>
 <foaf:knows>
     <foaf:Person rdf:about="http://firasbarrek.me/my_rdf.rdf">
         <foaf:name>Barrek Mohamed Firas</foaf:name>
