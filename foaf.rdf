@@ -35,12 +35,6 @@
 
 
     <!-- Some retired mailboxes ...-->
-
-
-    <uranai:bloodtype xmlns:uranai="http://kota.s12.xrea.com/vocab/uranai"
-	>A+</uranai:bloodtype>
-	
-
 	<foaf:holdsAccount>
       <foaf:OnlineAccount>
         <foaf:accountServiceHomepage rdf:resource="http://www.skype.com/"/>
