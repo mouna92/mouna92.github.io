@@ -20,19 +20,10 @@
         <foaf:primaryTopic rdf:resource="#danbri"/>
   </foaf:PersonalProfileDocument>
 
-<foaf:PersonalProfileDocument rdf:about="http://danbri.org/foaf.rdf">
-<foaf:primaryTopic rdf:resource="#mouna"/>
-</foaf:PersonalProfileDocument>
-<foaf:Person rdf:ID="mouna">
-<foaf:name>Mouna Sassi</foaf:name>
-<foaf:title>M.</foaf:title>
-<foaf:givenname>Mouna</foaf:givenname>
-<foaf:family_name>Sassi</foaf:family_name>
-<foaf:nick>Manou</foaf:nick>
-<foaf:dateOfBirth>1992-06-25</foaf:dateOfBirth>
-<foaf:homepage rdf:resource="http://mounasassi.me" dc:title="Sassi Mouna | CV | Ingénieur et développeur web front end | Tunisie"/>
-<foaf:img rdf:resource="http://mounasassi.me/images/manou.jpg"/>
-<foaf:gender>female</foaf:gender>
+  <Person rdf:ID="mouna">
+    <foaf:name>Sassi Mouna</foaf:name>
+    <foaf:nick>mouna</foaf:nick>
+    <owl:sameAs rdf:resource="http://foaf.me/danbri#me"/>
 
  <!-- 1999-2005 :)
     <workplaceHomepage rdf:resource="http://www.w3.org/"/>
@@ -303,7 +294,7 @@
 
     <knows>
       <Person>
-        <name>Ouertani Mohamed Firas</name>
+        <name>Eric Miller</name>
         <mbox rdf:resource="mailto:em@w3.org"/>
         <img rdf:resource="http://www.oclc.org/~emiller/capture.jpg"/>
         <depiction>
@@ -468,5 +459,5 @@
         </made>
       </Person>
     </knows>
-  </foaf:Person>
+  </Person>
 </rdf:RDF>
