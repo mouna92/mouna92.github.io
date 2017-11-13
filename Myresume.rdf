@@ -32,11 +32,6 @@
 <foaf:knows>
       <foaf:Person> 
         <!-- <foaf:name>Barrek mohamed firas</foaf:name> -->
-        <foaf:made>
-            <rss:title>Channel of Filth</rss:title>
-            <rdfs:seeAlso rdf:resource="http://www.glandscape.com/cgi-bin/prnxml.rss"/>
-          </foaf:channel>
-        </foaf:made>
       </foaf:Person>
     </foaf:knows>
  </rdf:RDF>
