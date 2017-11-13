@@ -32,8 +32,6 @@
     <doac:Experience>
         <doac:title> Freelance </doac:title>
         <doac:location>GeeksData</doac:location>
-        <doac:date-starts>2017-07-01</doac:date-starts>
-        <doac:date-ends>2017-08-01</doac:date-ends>
         <doac:activity>
             Intégration d’un template web en utilisant Html, Css, javascript et Bootstrap.
         </doac:activity>
@@ -51,7 +49,6 @@
         <foaf:organization> École Supérieure Privée d’Ingénierie et de Technologies – ESPRIT</foaf:organization>
 		<doac:location>Ariana</doac:location>
         <doac:title>Diplôme d’ingenieur Spécialité Développement web</doac:title>
-        <doac:date-starts>2015-09-01</doac:date-starts>
     </doac:Education>
 </doac:education>
 <doac:education>
