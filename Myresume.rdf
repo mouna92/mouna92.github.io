@@ -29,7 +29,7 @@
 </foaf:Person>
 <foaf:knows>
  <foaf:Person>
-<foaf:name>Barrek Mohamed Firas</foaf:name>     
+<!-- <foaf:name>Barrek Mohamed Firas</foaf:name>      -->
  </foaf:Person>
  </foaf:knows>
  </rdf:RDF>
