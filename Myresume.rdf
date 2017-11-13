@@ -30,14 +30,14 @@
 <foaf:gender>female</foaf:gender>
 </foaf:Person>
 <rdf:knows>
-      <rdf:Person> 
-        <rdf:name>Barrek mohamed firas</name>
-        <rdf:made>
+      <foaf:Person> 
+        <foaf:name>Barrek mohamed firas</foaf:name>
+        <foaf:made>
           <rss:channel rdf:about="http://www.glandscape.com/cgi-bin/prnxml.rss">
             <rss:title>Channel of Filth</rss:title>
             <rdfs:seeAlso rdf:resource="http://www.glandscape.com/cgi-bin/prnxml.rss"/>
-          </rss:channel>
+          </foaf:channel>
         </rdf:made>
-      </rdf:Person>
+      </foaf:Person>
     </rdf:knows>
  </rdf:RDF>
