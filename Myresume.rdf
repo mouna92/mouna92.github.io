@@ -30,7 +30,6 @@
 </foaf:Person>
 <doac:experience>
     <doac:Experience>
-        <doac:title> Freelance </doac:title>
         <doac:location>GeeksData</doac:location>
         <doac:activity>
             Intégration d’un template web en utilisant Html, Css, javascript et Bootstrap.
