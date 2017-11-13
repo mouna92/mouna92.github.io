@@ -45,50 +45,19 @@
     <!-- Note: if foaf.rdf has been updated without being resigned in  .asc, the SemWeb won't know I wrote this. 
 
 	 -->
-
-    <!-- pointer to a whole load of other rdf files -->
-    <schoolHomepage rdf:resource="http://www.vandh.free-online.co.uk/wgate/westgate.htm"/>
-    <contact:nearestAirport>
-      <wn:Airport air:icao="EGGD" air:iata="BRS"/>
-    </contact:nearestAirport>
-    <myersBriggs>INTP</myersBriggs> <!-- not that I'm a believer, but still... -->
-    <plan>Save the world and home in time for tea.</plan>
-    <rdfs:seeAlso rdf:resource="http://rdfweb.org/people/danbri/rdfweb/webwho.xrdf"/>
-
-
-<!-- ok this property doesn't really exist... -->
-
-    <owl:differentFrom>
-      <Person>
-        <name>Dan Brickley</name>
-        <isPrimaryTopicOf rdf:resource="http://www.geocities.com/danbfan/"/>
-        <img rdf:resource="http://www.geocities.com/danbfan/Ford3.jpg"/>
-      </Person>
-     </owl:differentFrom>
-
-    <owl:differentFrom>
-      <Person>
-        <name>Dan Brickley</name>
-        <homepage rdf:resource="http://hitdanback.com/"/>
-      </Person>
-    </owl:differentFrom>
-
-
-
 <!-- connections to other peoples -->
-    <rdfs:seeAlso rdf:resource="http://swordfish.rdfweb.org/discovery/2001/08/codepict/scutterplan.rdf"/>
+    <rdfs:seeAlso rdf:resource="http://mounasassi.me/Mresume.rdf"/>
     <rdfs:seeAlso rdf:resource="http://xmlns.com/foaf/0.1/"/>
 
     <!-- can do brief summary here, or longer/verbose, see below -->
 
     <knows>
       <Person>
-        <mbox rdf:resource="mailto:libby.miller@bristol.ac.uk"/>
-        <mbox rdf:resource="mailto:libby@asemantics.com"/>
+        <mbox rdf:resource="mohamedfiras.barrek@esprit.tn"/>
       </Person>
     </knows>
 
-    <knows><Person foaf:name="Mischa Tuffield" rdf:about="http://mmt.me.uk/foaf.rdf#mischa"/></knows>
+    <knows><Person foaf:name="Barrek Mohamed Firas" rdf:about="http://firasbarrek.me/My_rdf.rdf#firas/></knows>
 
     <knows>
       <Person rdf:about="http://www.w3.org/People/Berners-Lee/card#i">
