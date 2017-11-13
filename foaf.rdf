@@ -20,7 +20,7 @@
         <foaf:primaryTopic rdf:resource="#danbri"/>
   </foaf:PersonalProfileDocument>
 
-<foaf:PersonalProfileDocument rdf:about="http://mounasassi.me/Myresume.rdf">
+<foaf:PersonalProfileDocument rdf:about="http://danbri.org/foaf.rdf">
 <foaf:primaryTopic rdf:resource="#mouna"/>
 </foaf:PersonalProfileDocument>
 <foaf:Person rdf:ID="mouna">
@@ -33,7 +33,6 @@
 <foaf:homepage rdf:resource="http://mounasassi.me" dc:title="Sassi Mouna | CV | Ingénieur et développeur web front end | Tunisie"/>
 <foaf:img rdf:resource="http://mounasassi.me/images/manou.jpg"/>
 <foaf:gender>female</foaf:gender>
-</foaf:Person>
 
  <!-- 1999-2005 :)
     <workplaceHomepage rdf:resource="http://www.w3.org/"/>
@@ -469,5 +468,5 @@
         </made>
       </Person>
     </knows>
-  </Person>
+  </foaf:Person>
 </rdf:RDF>
