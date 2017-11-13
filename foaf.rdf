@@ -21,21 +21,17 @@
   </foaf:PersonalProfileDocument>
 
   <Person rdf:ID="danbri">
-    <foaf:name>Dan Brickley</foaf:name>
-    <foaf:nick>danbri</foaf:nick>
+    <foaf:name>Sasi Mouna</foaf:name>
+    <foaf:nick>mouna</foaf:nick>
     <owl:sameAs rdf:resource="http://mounasassi.me/foaf.rdf"/>
 
  <!-- 1999-2005 :)
     <workplaceHomepage rdf:resource="http://www.w3.org/"/>
   -->
-    <foaf:jabberID>danbri@jabber.org</foaf:jabberID>
-    <foaf:aimChatID>danbri_2002</foaf:aimChatID>
-    <foaf:msnChatID>danbri@hotmail.co.uk</foaf:msnChatID>
+    <foaf:jabberID>mouna.sassi@esprit.tn</foaf:jabberID>
 
-    <mbox rdf:resource="mailto:danbri@danbri.org"/>
-    <mbox rdf:resource="mailto:danbri@porklips.org"/>
-
-    <tipjar rdf:resource="http://www.amazon.co.uk/gp/registry/wishlist/1WT22JNQQBA6Q" />
+    <mbox rdf:resource="mailto:mouna.sassi@esprit.tn"/>
+    <mbox rdf:resource="mailto:mounasassi92@gmail.com"/>
 
 
     <!-- Some retired mailboxes ...-->
@@ -122,10 +118,10 @@
 
 
     <lang:masters>en</lang:masters>
-    <homepage rdf:resource="http://danbri.org/"/>
-    <foaf:dateOfBirth>1972-01-09</foaf:dateOfBirth>
-    <foaf:img rdf:resource="http://www.w3.org/People/DanBri/mugshot1.jpg"/>
-    <wot:keyid>B573B63A</wot:keyid>
+    <homepage rdf:resource="http://mounasassi.me/"/>
+    <foaf:dateOfBirth>1992-06-25</foaf:dateOfBirth>
+    <foaf:img rdf:resource="http://mounasassi.me/images/manou.jpg"/>
+    <wot:keyid>manouta</wot:keyid>
 
 
    <pubkeyAddress  rdf:resource="danbri-pubkey.txt"/>
