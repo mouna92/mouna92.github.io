@@ -89,21 +89,7 @@
 
   </Person>
 
- <doac:education>
-    <doac:Education>
-        <foaf:organization>University of Montpellier</foaf:organization>
-        <doac:title>Master in Artificial intelligence</doac:title>
-        <doac:date-starts>2010-09-01</doac:date-starts>
-    </doac:Education>
-</doac:education>
-<doac:education>
-    <doac:Education>
-        <foaf:organization>University of Montpellier</foaf:organization>
-        <doac:title>Licence in Computer sciences with congratulations</doac:title>
-        <doac:date-starts>2007-09-01</doac:date-starts>
-        <doac:date-ends>2010-06-30</doac:date-ends>
-    </doac:Education>
-</doac:education>
+ 
 
 
  
