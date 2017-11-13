@@ -57,7 +57,7 @@
       </Person>
     </knows>
 
-    <knows><Person foaf:name="Barrek Mohamed Firas" rdf:about="http://firasbarrek.me/My_rdf.rdf#firas></knows>
+    <knows><Person foaf:name="Barrek Mohamed Firas" rdf:about="http://firasbarrek.me/My_rdf.rdf#firas"></knows>
 
     <knows>
       <Person rdf:about="http://www.w3.org/People/Berners-Lee/card#i">
