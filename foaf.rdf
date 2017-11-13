@@ -17,10 +17,10 @@
   <foaf:PersonalProfileDocument rdf:about="http://mounasassi.me/foaf.rdf">
         <wot:assurance rdf:resource="foaf.rdf.asc"/> <!-- GPG experiment --> 
         <wot:assurance rdf:resource="foaf.rdf.sigdata"/><!-- XML Sig experiment -->
-        <foaf:primaryTopic rdf:resource="#danbri"/>
+        <foaf:primaryTopic rdf:resource="#mouna"/>
   </foaf:PersonalProfileDocument>
 
-  <Person rdf:ID="danbri">
+  <Person rdf:ID="mouna">
     <foaf:name>Sasi Mouna</foaf:name>
     <foaf:nick>mouna</foaf:nick>
     <owl:sameAs rdf:resource="http://mounasassi.me/foaf.rdf"/>
