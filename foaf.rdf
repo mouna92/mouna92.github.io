@@ -20,9 +20,9 @@
         <foaf:primaryTopic rdf:resource="#danbri"/>
   </foaf:PersonalProfileDocument>
 
-  <Person rdf:ID="mouna">
-    <foaf:name>Sassi Mouna</foaf:name>
-    <foaf:nick>mouna</foaf:nick>
+  <Person rdf:ID="danbri">
+    <foaf:name>Dan Brickley</foaf:name>
+    <foaf:nick>danbri</foaf:nick>
     <owl:sameAs rdf:resource="http://foaf.me/danbri#me"/>
 
  <!-- 1999-2005 :)
@@ -278,7 +278,7 @@
 
    <knows>
     <Person>
-      <name>Narimen</name>
+      <name>Amy van der Hiel</name>
       <foaf:mbox_sha1sum>1839a1cc2e719a85ea7d9007f587b2899cd94064</foaf:mbox_sha1sum>
       <rdfs:seeAlso rdf:resource="http://people.w3.org/amy/foaf.rdf" />
     </Person>
@@ -286,7 +286,7 @@
 
     <knows>
       <Person>
-        <name>Barrek Mohamed Firas</name>
+        <name>Joe Brickley</name>
         <mbox rdf:resource="mailto:joe.brickley@btopenworld.com"/>
         <rdfs:seeAlso rdf:resource="http://hippyrigs.fiendsreunited.com/people/joe/foaf.rdf"/>
       </Person>
